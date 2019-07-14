@@ -10,5 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^1.3.1"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TijsDeBelie/WhyGame.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/TijsDeBelie/WhyGame/issues"
+  },
+  "homepage": "https://github.com/TijsDeBelie/WhyGame#readme"
 }
